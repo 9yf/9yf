@@ -1,14 +1,10 @@
-<br />
-<div align="center">
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
+# TODOs:
 
-  <h3 align="center">hi</h3>
-
-  <p align="center">
-    <font color='red'>mert</font>
-    <br /><strong>i know 3c's arent rare
-  
-
-
-  </p>
-</div>
+</r> mert
+</g> i know 3c's arent rare
