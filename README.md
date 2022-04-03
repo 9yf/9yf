@@ -8,7 +8,7 @@
 
   <p align="center">
     mert<br />
-    ·<br />
+    ·
     <strong>i know 3c's arent rare
   
 
