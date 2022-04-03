@@ -9,7 +9,7 @@
   <p align="center">
     mert<br />
     ·
-    <strong>i know 3c's arent rare
+    <br /><strong>i know 3c's arent rare
   
 
 
