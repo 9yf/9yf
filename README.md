@@ -7,8 +7,8 @@
   <h3 align="center">hi</h3>
 
   <p align="center">
-    mert
-    ·
+    mert<br />
+    ·<br />
     <strong>i know 3c's arent rare
   
 
